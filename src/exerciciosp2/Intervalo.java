@@ -1,3 +1,5 @@
+package exerciciosp2;
+
 import java.util.Locale;
 import java.util.Scanner;
 
